@@ -23,3 +23,9 @@ Loss Prevention
 Automatic Software Updates
 Competitive Edge
 Sustainability
+
+
+Difference b/w Git & Github:
+Git is a software which will be installed in our local system
+GitHub is a Software as a service (SaaS) which can be used by millions of people for code saving into cloud platform and access it upon his/her company size.
+
