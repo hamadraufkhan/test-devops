@@ -32,3 +32,11 @@ GitHub is a Software as a service (SaaS) which can be used by millions of people
 Stages of Git:
 there are 4 stages of git 
 working directory - staging - local repo - cloud repository
+
+3 methods of git reset:
+soft
+soft reset will take back changes from local repo to staged 
+mixed
+mixed reset will take back changes from local repo to working directory
+hard
+hard reset will take back changes from local repo to dust bin and you will not be able to revert this change. (be very coutious with that command)
